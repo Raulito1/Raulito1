@@ -1,13 +1,12 @@
-## Recent UGA Full-Stack Web Developer Grad
+## UGA Full-Stack Web Developer Grad
+## Full Stack Developer 
 
-- 🔭 I’m currently working on ... finding the right opportunity to jumpstart my new career as a Full-Stack Web Developer
-- 🌱 I’m currently learning ... Data Structures And Algorithims 
-- 👯 I’m looking to collaborate on ... an open source project on GitHub
-- 🤔 I’m looking for help with ... Learning more about Javascript being used in the BackEnd
+- 🔭 I’m currently working on ... making the web more accessible(a11y) at my current role at ADP
+- 🌱 I’m currently learning ... make mobile apps more accessible and compliant
+- 🤔 I’m looking for help with ... making more time to learn more and contribute more to my personal repos.
 - 💬 Ask me about ... Anything 
-- 📫 How to reach me: ... [HERE at my LinkedIn](https://www.linkedin.com/in/raul-alvarado-jr/)
+- 📫 How to reach me: ... [HERE at my LinkedIn](https://www.linkedin.com/in/raul-alvarado-354822235)
 ---
-![UGA logo](http://basno.com/j69s56zs.png)
 
 <!--
 **Raulito1/Raulito1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
