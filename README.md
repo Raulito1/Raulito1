@@ -1,4 +1,3 @@
-## UGA Full-Stack Web Developer Grad
 ## Full Stack Developer 
 
 - 🔭 I’m currently working on ... making the web more accessible(a11y) at my current role at ADP
